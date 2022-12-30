@@ -1,5 +1,5 @@
 ## Pull Requests
-<div><a href="https://github.com/daeryun/daeryun-homepage/compare/main...develop"><img src="https://img.shields.io/badge/대표-<red>"/></a></div>
+<div><a href="https://github.com/daeryun/daeryun-homepage/compare/main...develop"><img src="https://img.shields.io/badge/대표-red"/></a></div>
 <div><a href="https://github.com/daeryun/center_detective/compare/main...develop"><img src="https://img.shields.io/badge/형사-<red>"/></a></div>
 <div><a href="https://github.com/daeryun/center_assault/compare/main...develop"><img src="https://img.shields.io/badge/성범죄-<red>"/></a></div>
 <div><a href="https://github.com/daeryun/center_school/compare/main...develop"><img src="https://img.shields.io/badge/학교-<red>"/></a></div>
