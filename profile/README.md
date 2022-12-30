@@ -9,7 +9,7 @@
 <div ><a href="https://github.com/daeryun/center_estate/compare/main...develop"><img src="https://img.shields.io/badge/부동산-red"/></a></div>
 <div><a href=" https://github.com/daeryun/center_compensation/compare/main...develop"><img src="https://img.shields.io/badge/민사-red"/></a></div>
 <div ><a href="https://github.com/daeryun/center_administration/compare/main...develop"><img src="https://img.shields.io/badge/행정-red"/></a></div>
-<div ><a href="https://github.com/daeryun/center_regener/compare/main...develop"><img src="https://img.shields.io/badge/생파산-red"/></a></div>
+<div ><a href="https://github.com/daeryun/center_regener/compare/main...develop"><img src="https://img.shields.io/badge/회생파산-red"/></a></div>
 
 
 
