@@ -1,4 +1,4 @@
-<a href="https://github.com/daeryun/center_detective/compare/main...develop"><img src="https://img.shields.io/badge/대표-<COLOR>"/></a>
+<div><a href="https://github.com/daeryun/center_detective/compare/main...develop"><img src="https://img.shields.io/badge/대표-<COLOR>"/></a></div>
 <a href="https://github.com/daeryun/center_detective/compare/main...develop"><img src="https://img.shields.io/badge/형사-<COLOR>"/></a>
 <a href="https://github.com/daeryun/center_detective/compare/main...develop"><img src="https://img.shields.io/badge/성범죄-<COLOR>"/></a>
 <a href="https://github.com/daeryun/center_detective/compare/main...develop"><img src="https://img.shields.io/badge/학교-<COLOR>"/></a>
