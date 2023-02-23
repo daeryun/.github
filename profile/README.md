@@ -15,8 +15,4 @@
 <div><a href="https://github.com/daeryun/center_labor/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/노동-ed0086"/></a></div>
 <div><a href="https://github.com/daeryun/center_discovery/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/디스커버리-5c221f"/></a></div>
 
-<div><a href="https://github.com/daeryun/daeryunlaw.co.kr/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/daeryunlaw.co.kr-lightgrey"/></a></div>
-
-
-
-
+<div><a href="https://github.com/daeryun/daeryunlaw.co.kr/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/슈퍼로이어스-lightgrey"/></a></div>
