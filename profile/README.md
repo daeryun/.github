@@ -18,4 +18,7 @@
 <div><a href="https://github.com/daeryun/center_tax/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/조세-black"/></a></div>
 <div><a href="https://github.com/daeryun/center_iprs/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/지재권-skyblue"/></a></div>
 <div><a href="https://github.com/daeryun/center_finance/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/금융-magenta"/></a></div>
+<div><a href="https://github.com/daeryun/center_military/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/군형사-556B2F"/></a></div>
+<div><a href="https://github.com/daeryun/center_medical/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/의료-white"/></a></div>
+<div><a href="https://github.com/daeryun/center_traffic/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/교통사고-fae100"/></a></div>
 <div><a href="https://github.com/daeryun/daeryunlaw.co.kr/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/슈퍼로이어스-lightgrey"/></a></div>
