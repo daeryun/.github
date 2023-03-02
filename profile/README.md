@@ -16,6 +16,7 @@
 <div><a href="https://github.com/daeryun/center_discovery/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/디스커버리-5c221f"/></a></div>
 
 <div><a href="https://github.com/daeryun/center_tax/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/조세-black"/></a></div>
+<div><a href="https://github.com/daeryun/center_drug/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/마약-fa8072"/></a></div>
 <div><a href="https://github.com/daeryun/center_iprs/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/지재권-skyblue"/></a></div>
 <div><a href="https://github.com/daeryun/center_finance/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/금융-magenta"/></a></div>
 <div><a href="https://github.com/daeryun/center_military/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/군형사-556B2F"/></a></div>
