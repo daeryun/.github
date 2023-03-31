@@ -12,8 +12,8 @@
 <div><a href="https://github.com/daeryun/center_compensation/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/민사-green"/></a></div>
 <div><a href="https://github.com/daeryun/center_administration/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/행정-blueviolet"/></a></div>
 <div><a href="https://github.com/daeryun/center_regener/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/회생파산-blue"/></a></div>
-<div><a href="https://github.com/daeryun/center_labor/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/노동-ed0086"/></a></div>
-<div><a href="https://github.com/daeryun/center_discovery/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/디스커버리-5c221f"/></a></div>
+<div><a href="https://github.com/daeryun/center_labor/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/노동산재-ed0086"/></a></div>
+<div><a href="https://github.com/daeryun/center_discovery/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/증거조사-5c221f"/></a></div>
 
 <div><a href="https://github.com/daeryun/center_tax/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/조세-black"/></a></div>
 <div><a href="https://github.com/daeryun/center_drug/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/마약-fa8072"/></a></div>
@@ -21,5 +21,5 @@
 <div><a href="https://github.com/daeryun/center_finance/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/금융-magenta"/></a></div>
 <div><a href="https://github.com/daeryun/center_military/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/군형사-556B2F"/></a></div>
 <div><a href="https://github.com/daeryun/center_medical/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/의료-white"/></a></div>
-<div><a href="https://github.com/daeryun/center_traffic/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/교통사고-fae100"/></a></div>
+<div><a href="https://github.com/daeryun/center_traffic/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/음주교통사고-fae100"/></a></div>
 <div><a href="https://github.com/daeryun/daeryunlaw.co.kr/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/슈퍼로이어스-lightgrey"/></a></div>
