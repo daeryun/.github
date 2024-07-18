@@ -3,6 +3,7 @@
 <div><a href="https://github.com/daeryun/daeryun-homepage/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/대표-blue"/></a></div>
 
 <div>
+  <a href="https://github.com/daeryun/group-detective-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 형사-9cf"/></a>
   <a href="https://github.com/daeryun/center_detective/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/형사-9cf"/></a>
   <a href="https://github.com/daeryun/center_election/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/선거대응-9cf"/></a>
 </div>
