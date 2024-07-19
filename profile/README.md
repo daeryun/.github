@@ -8,7 +8,10 @@
   <a href="https://github.com/daeryun/center_election/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/선거대응-9cf"/></a>
 </div>
 
-<div><a href="https://github.com/daeryun/center_assault/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/성범죄-ff69b4"/></a></div>
+<div>
+  <a href="https://github.com/daeryun/group-assault-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 성범죄-ff69b4"/></a>
+  <a href="https://github.com/daeryun/center_assault/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/성범죄-ff69b4"/></a>
+</div>
 <div><a href="https://github.com/daeryun/center_school/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/학교-brightgreen"/></a></div>
 
 <div>
