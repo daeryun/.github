@@ -40,7 +40,10 @@
 <div><a href="https://github.com/daeryun/center_iprs/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/지재권-skyblue"/></a></div>
 <div><a href="https://github.com/daeryun/center_finance/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/금융-magenta"/></a></div>
 <div><a href="https://github.com/daeryun/center_military/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/군형사-556B2F"/></a></div>
-<div><a href="https://github.com/daeryun/center_medical/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/의료-white"/></a></div>
+<div>
+  <a href="https://github.com/daeryun/group-medical-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 의료-white"/></a>
+  <a href="https://github.com/daeryun/center_medical/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/의료-white"/></a>
+</div>
 <div>
   <a href="https://github.com/daeryun/group-traffic-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 음주교통사고-fae100"/></a>
   <a href="https://github.com/daeryun/center_traffic/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/음주교통사고-fae100"/></a>
