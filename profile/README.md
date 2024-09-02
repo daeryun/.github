@@ -34,7 +34,10 @@
 <div><a href="https://github.com/daeryun/center_labor/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/노동산재-ed0086"/></a></div>
 <div><a href="https://github.com/daeryun/center_discovery/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/증거조사-5c221f"/></a></div>
 
-<div><a href="https://github.com/daeryun/center_tax/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/조세-black"/></a></div>
+<div>
+  <a href="https://github.com/daeryun/group-tax-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 조세-black"/></a>
+  <a href="https://github.com/daeryun/center_tax/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/조세-black"/></a>
+</div>
 <div><a href="https://github.com/daeryun/group-accounting-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 회계감리-685436"/></a></div>
 <div>
   <a href="https://github.com/daeryun/group-drug-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 마약-fa8072"/></a>
