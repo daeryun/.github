@@ -64,6 +64,9 @@
   <a href="https://github.com/daeryun/center_consulting/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/상담-red"/></a>
 </div>
 <div>
+  <a href="https://github.com/daeryun/group-entertainment-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 엔터스포츠-6B66FF"/></a>
+</div>
+<div>
   <a href="https://github.com/daeryun/group-trade-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 공정거래-D9418C"/></a>
 </div>
 <div><a href="https://github.com/daeryun/center_seoul/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/서울본부-133567"/></a></div>
