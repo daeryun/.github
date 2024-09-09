@@ -34,34 +34,34 @@
 <div><a href="https://github.com/daeryun/center_labor/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/노동산재-ed0086"/></a></div>
 <div>
   <a href="https://github.com/daeryun/group-discovery-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 증거조사-5c221f"/></a>
-  <a href="https://github.com/daeryun/center_discovery/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/증거조사-5c221f"/></a>
+  <a href="https://github.com/daeryun/center_discovery/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)증거조사-5c221f"/></a>
 </div>
 
 <div>
   <a href="https://github.com/daeryun/group-tax-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 조세-black"/></a>
-  <a href="https://github.com/daeryun/center_tax/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/조세-black"/></a>
+  <a href="https://github.com/daeryun/center_tax/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)조세-black"/></a>
 </div>
 <div><a href="https://github.com/daeryun/group-accounting-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 회계감리-685436"/></a></div>
 <div>
   <a href="https://github.com/daeryun/group-drug-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 마약-fa8072"/></a>
-  <a href="https://github.com/daeryun/center_drug/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/마약-fa8072"/></a>
+  <a href="https://github.com/daeryun/center_drug/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)마약-fa8072"/></a>
 </div>
 <div><a href="https://github.com/daeryun/center_iprs/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/지재권-skyblue"/></a></div>
 <div><a href="https://github.com/daeryun/center_finance/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/금융-magenta"/></a></div>
 <div><a href="https://github.com/daeryun/center_military/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/군형사-556B2F"/></a></div>
 <div>
   <a href="https://github.com/daeryun/group-medical-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 의료-white"/></a>
-  <a href="https://github.com/daeryun/center_medical/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/의료-white"/></a>
+  <a href="https://github.com/daeryun/center_medical/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)의료-white"/></a>
 </div>
 <div>
   <a href="https://github.com/daeryun/group-traffic-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 음주교통사고-fae100"/></a>
-  <a href="https://github.com/daeryun/center_traffic/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/음주교통사고-fae100"/></a>
+  <a href="https://github.com/daeryun/center_traffic/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)음주교통사고-fae100"/></a>
 </div>
 <div><a href="https://github.com/daeryun/center_international/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/국제소송-FFD9FA"/></a></div>
 <div><a href="https://github.com/daeryun/center_mergers/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/M&A-F2CB61"/></a></div>
 <div>
   <a href="https://github.com/daeryun/group-consulting-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 상담-red"/></a>
-  <a href="https://github.com/daeryun/center_consulting/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/상담-red"/></a>
+  <a href="https://github.com/daeryun/center_consulting/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)상담-red"/></a>
 </div>
 <div>
   <a href="https://github.com/daeryun/group-entertainment-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 엔터스포츠-6B66FF"/></a>
