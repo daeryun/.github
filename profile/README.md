@@ -33,7 +33,10 @@
   <a href="https://github.com/daeryun/group-inherit-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 상속-orange"/></a>
   <a href="https://github.com/daeryun/center_inherit/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/상속-orange"/></a>
 </div>
-<div><a href="https://github.com/daeryun/center_estate/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/부동산-yellowgreen"/></a></div>
+<div>
+  <a href="https://github.com/daeryun/group-estate-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 부동산-yellowgreen"/></a>
+  <a href="https://github.com/daeryun/center_estate/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/부동산-yellowgreen"/></a>
+</div>
 <div><a href="https://github.com/daeryun/center_compensation/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/민사-green"/></a></div>
 <div><a href="https://github.com/daeryun/center_administration/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/행정-blueviolet"/></a></div>
 <div><a href="https://github.com/daeryun/center_regener/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/회생파산-blue"/></a></div>
