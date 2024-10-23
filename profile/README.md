@@ -4,17 +4,17 @@
 
 <div>
   <a href="https://github.com/daeryun/group-detective-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 형사-9cf"/></a>
-  <a href="https://github.com/daeryun/center_detective/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/형사-9cf"/></a>
   <a href="https://github.com/daeryun/center_election/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/선거대응-9cf"/></a>
+  <a href="https://github.com/daeryun/center_detective/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)형사-9cf"/></a>
 </div>
 
 <div>
   <a href="https://github.com/daeryun/group-assault-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 성범죄-ff69b4"/></a>
-  <a href="https://github.com/daeryun/center_assault/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/성범죄-ff69b4"/></a>
+  <a href="https://github.com/daeryun/center_assault/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)성범죄-ff69b4"/></a>
 </div>
 <div>
   <a href="https://github.com/daeryun/group-school-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 학교폭력-brightgreen"/></a>
-  <a href="https://github.com/daeryun/center_school/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/학교-brightgreen"/></a>
+  <a href="https://github.com/daeryun/center_school/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)학교-brightgreen"/></a>
 </div>
 
 <div>
@@ -31,18 +31,18 @@
 </div>
 <div>
   <a href="https://github.com/daeryun/group-inherit-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 상속-orange"/></a>
-  <a href="https://github.com/daeryun/center_inherit/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/상속-orange"/></a>
+  <a href="https://github.com/daeryun/center_inherit/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)상속-orange"/></a>
 </div>
 <div>
   <a href="https://github.com/daeryun/group-estate-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 부동산-yellowgreen"/></a>
-  <a href="https://github.com/daeryun/center_estate/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/부동산-yellowgreen"/></a>
+  <a href="https://github.com/daeryun/center_estate/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)부동산-yellowgreen"/></a>
 </div>
 <div><a href="https://github.com/daeryun/center_compensation/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/민사-green"/></a></div>
 <div><a href="https://github.com/daeryun/center_administration/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/행정-blueviolet"/></a></div>
 <div><a href="https://github.com/daeryun/center_regener/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/회생파산-blue"/></a></div>
 <div>
   <a href="https://github.com/daeryun/group-labor-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 노동산재-ed0086"/></a>
-  <a href="https://github.com/daeryun/center_labor/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/노동산재-ed0086"/></a>
+  <a href="https://github.com/daeryun/center_labor/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)노동산재-ed0086"/></a>
 </div>
 <div>
   <a href="https://github.com/daeryun/group-discovery-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 증거조사-5c221f"/></a>
@@ -58,7 +58,7 @@
   <a href="https://github.com/daeryun/group-drug-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 마약-fa8072"/></a>
   <a href="https://github.com/daeryun/center_drug/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)마약-fa8072"/></a>
 </div>
-<div><a href="https://github.com/daeryun/center_iprs/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/지재권-skyblue"/></a></div>
+<div><a href="https://github.com/daeryun/center_iprs/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/지식재산권-skyblue"/></a></div>
 <div><a href="https://github.com/daeryun/center_finance/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/금융-magenta"/></a></div>
 <div><a href="https://github.com/daeryun/center_military/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/군형사-556B2F"/></a></div>
 <div>
@@ -72,8 +72,8 @@
 <div><a href="https://github.com/daeryun/center_international/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/국제소송-FFD9FA"/></a></div>
 <div><a href="https://github.com/daeryun/center_mergers/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/M&A-F2CB61"/></a></div>
 <div>
-  <a href="https://github.com/daeryun/group-consulting-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 상담-red"/></a>
-  <a href="https://github.com/daeryun/center_consulting/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)상담-red"/></a>
+  <a href="https://github.com/daeryun/group-consulting-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 법률상담-red"/></a>
+  <a href="https://github.com/daeryun/center_consulting/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)법률상담-red"/></a>
 </div>
 <div>
   <a href="https://github.com/daeryun/group-entertainment-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 엔터스포츠-6B66FF"/></a>
