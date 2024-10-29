@@ -37,7 +37,10 @@
   <a href="https://github.com/daeryun/group-estate-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 부동산-yellowgreen"/></a>
   <a href="https://github.com/daeryun/center_estate/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)부동산-yellowgreen"/></a>
 </div>
-<div><a href="https://github.com/daeryun/center_compensation/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/민사-green"/></a></div>
+<div>
+  <a href="https://github.com/daeryun/group-compensation-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 민사-green"/></a>
+  <a href="https://github.com/daeryun/center_compensation/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/민사-green"/></a>
+</div>
 <div><a href="https://github.com/daeryun/center_administration/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/행정-blueviolet"/></a></div>
 <div><a href="https://github.com/daeryun/center_regener/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/회생파산-blue"/></a></div>
 <div>
@@ -60,7 +63,10 @@
 </div>
 <div><a href="https://github.com/daeryun/center_iprs/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/지식재산권-skyblue"/></a></div>
 <div><a href="https://github.com/daeryun/center_finance/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/금융-magenta"/></a></div>
-<div><a href="https://github.com/daeryun/center_military/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/군형사-556B2F"/></a></div>
+<div>
+  <a href="https://github.com/daeryun/group-military-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 군형사-556B2F"/></a>
+  <a href="https://github.com/daeryun/center_military/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/군형사-556B2F"/></a>
+</div>
 <div>
   <a href="https://github.com/daeryun/group-medical-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 의료-white"/></a>
   <a href="https://github.com/daeryun/center_medical/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)의료-white"/></a>
