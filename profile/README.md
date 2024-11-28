@@ -75,7 +75,10 @@
   <a href="https://github.com/daeryun/group-traffic-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 음주교통사고-fae100"/></a>
   <a href="https://github.com/daeryun/center_traffic/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)음주교통사고-fae100"/></a>
 </div>
-<div><a href="https://github.com/daeryun/center_international/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/국제소송-FFD9FA"/></a></div>
+<div>
+  <a href="https://github.com/daeryun/group-international-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 관세국제통상이민-FFD9FA"/></a>
+  <a href="https://github.com/daeryun/center_international/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/국제소송-FFD9FA"/></a>
+</div>
 <div><a href="https://github.com/daeryun/center_mergers/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/M&A-F2CB61"/></a></div>
 <div>
   <a href="https://github.com/daeryun/group-consulting-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 법률상담-red"/></a>
