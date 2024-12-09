@@ -38,8 +38,8 @@
   <a href="https://github.com/daeryun/center_estate/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)부동산-yellowgreen"/></a>
 </div>
 <div>
-  <a href="https://github.com/daeryun/group-compensation-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 민사-green"/></a>
-  <a href="https://github.com/daeryun/center_compensation/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/민사-green"/></a>
+  <a href="https://github.com/daeryun/group-compensation-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 일반소송중재-green"/></a>
+  <a href="https://github.com/daeryun/center_compensation/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)민사-green"/></a>
 </div>
 <div><a href="https://github.com/daeryun/center_administration/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/행정-blueviolet"/></a></div>
 <div><a href="https://github.com/daeryun/center_regener/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/회생파산-blue"/></a></div>
