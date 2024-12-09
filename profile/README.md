@@ -65,7 +65,7 @@
 <div><a href="https://github.com/daeryun/center_finance/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/금융-magenta"/></a></div>
 <div>
   <a href="https://github.com/daeryun/group-military-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 군형사-556B2F"/></a>
-  <a href="https://github.com/daeryun/center_military/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/군형사-556B2F"/></a>
+  <a href="https://github.com/daeryun/center_military/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)군형사-556B2F"/></a>
 </div>
 <div>
   <a href="https://github.com/daeryun/group-medical-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 의료-white"/></a>
@@ -77,7 +77,7 @@
 </div>
 <div>
   <a href="https://github.com/daeryun/group-international-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 관세국제통상이민-FFD9FA"/></a>
-  <a href="https://github.com/daeryun/center_international/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/국제소송-FFD9FA"/></a>
+  <a href="https://github.com/daeryun/center_international/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)국제소송-FFD9FA"/></a>
 </div>
 <div><a href="https://github.com/daeryun/center_mergers/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/M&A-F2CB61"/></a></div>
 <div>
