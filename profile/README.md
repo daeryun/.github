@@ -61,7 +61,10 @@
   <a href="https://github.com/daeryun/group-drug-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 마약-fa8072"/></a>
   <a href="https://github.com/daeryun/center_drug/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)마약-fa8072"/></a>
 </div>
-<div><a href="https://github.com/daeryun/center_iprs/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/지식재산권-skyblue"/></a></div>
+<div>
+  <a href="https://github.com/daeryun/group-iprs-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 지식재산권-skyblue"/></a>
+  <a href="https://github.com/daeryun/center_iprs/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/지식재산권-skyblue"/></a>
+</div>
 <div><a href="https://github.com/daeryun/center_finance/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/금융-magenta"/></a></div>
 <div>
   <a href="https://github.com/daeryun/group-military-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 군형사-556B2F"/></a>
