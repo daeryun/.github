@@ -45,7 +45,10 @@
   <a href="https://github.com/daeryun/group-administration-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 행정-blueviolet"/></a>
   <a href="https://github.com/daeryun/center_administration/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/행정-blueviolet"/></a>
 </div>
-<div><a href="https://github.com/daeryun/center_regener/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/회생파산-blue"/></a></div>
+<div>
+  <a href="https://github.com/daeryun/group-regener-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 회생파산-blue"/></a>
+  <a href="https://github.com/daeryun/center_regener/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/회생파산-blue"/></a>
+</div>
 <div>
   <a href="https://github.com/daeryun/group-labor-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 노동산재-ed0086"/></a>
   <a href="https://github.com/daeryun/center_labor/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)노동산재-ed0086"/></a>
