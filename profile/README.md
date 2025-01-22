@@ -71,7 +71,10 @@
   <a href="https://github.com/daeryun/group-iprs-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 지식재산권-skyblue"/></a>
   <a href="https://github.com/daeryun/center_iprs/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/지식재산권-skyblue"/></a>
 </div>
-<div><a href="https://github.com/daeryun/center_finance/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/금융-magenta"/></a></div>
+<div>
+  <a href="https://github.com/daeryun/group-finance-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 금융-magenta"/></a>
+  <a href="https://github.com/daeryun/center_finance/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/금융-magenta"/></a>
+</div>
 <div>
   <a href="https://github.com/daeryun/group-military-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 군형사-556B2F"/></a>
   <a href="https://github.com/daeryun/center_military/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)군형사-556B2F"/></a>
@@ -101,6 +104,9 @@
 </div>
 <div>
   <a href="https://github.com/daeryun/group-trade-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 공정거래-D9418C"/></a>
+</div>
+<div>
+  <a href="https://github.com/daeryun/group-sapa-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 산업안전중대재해-C5250C"/></a>
 </div>
 <div><a href="https://github.com/daeryun/center_seoul/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/서울본부-133567"/></a></div>
 
