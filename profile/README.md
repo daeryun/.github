@@ -19,7 +19,7 @@
 
 <div>
   <a href="https://github.com/daeryun/group-comp-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 기업법무-yellow"/></a>
-  <a href="https://github.com/daeryun/center-comp-asset-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/자산운용-yellow"/></a>
+  <a href="https://github.com/daeryun/center-ai/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/AIIT-yellow"/></a>
   <a href="https://github.com/daeryun/center-comp-personnel-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/인사노무-yellow"/></a>
   <a href="https://github.com/daeryun/center-comp-regener-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/기업회파-yellow"/></a>
   <a href="https://github.com/daeryun/center_comp/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)기업-black"/></a>
