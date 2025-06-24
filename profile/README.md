@@ -54,7 +54,6 @@
   <a href="https://github.com/daeryun/center_labor/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)노동산재-black"/></a>
 </div>
 <div>
-  <a href="https://github.com/daeryun/group-discovery-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 증거조사그룹-5c221f"/></a>
   <a href="https://github.com/daeryun/center-discovery/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/증거조사센터-5c221f"/></a>
   <a href="https://github.com/daeryun/center-forensic/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/포렌식센터-5c221f"/></a>
   <a href="https://github.com/daeryun/center-guard/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/경호센터-5c221f"/></a>
