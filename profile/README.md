@@ -94,6 +94,9 @@
   <a href="https://github.com/daeryun/center_international/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)국제소송-black"/></a>
 </div>
 <div>
+  <a href="https://github.com/daeryun/group-immigrant-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2025 이민해외투자-FDL9DA"/></a>
+</div>
+<div>
   <a href="https://github.com/daeryun/group-mergers-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 M&A-F2CB61"/></a>
   <a href="https://github.com/daeryun/center_mergers/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)M&A-black"/></a>
 </div>
