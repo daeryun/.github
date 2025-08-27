@@ -121,6 +121,8 @@
 
 <div><a href="https://github.com/daeryun/daeryun-career/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/채용-blue"/></a></div>
 
+<div><a href="https://github.com/daeryun/daeryun-us/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/미국-red"/></a></div>
+
 <div><a href="https://github.com/daeryun/daeryunlaw.co.kr/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/슈퍼로이어스-lightgrey"/></a></div>
 <div><a href="https://github.com/daeryun/app_front/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/앱-BFFF00"/></a></div>
 <div><a href="https://github.com/daeryun/lawfirm/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/이지스-F0F8FF"/></a></div>
