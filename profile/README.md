@@ -131,4 +131,8 @@
 <div><a href="https://github.com/daeryun/lawfirm/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/이지스-F0F8FF"/></a></div>
 <div><a href="https://github.com/daeryun/generative_ai/compare/main...develop" target="_blank" style="color:#FFF"><img src="https://img.shields.io/badge/AI 대륜-DC143C"/></a></div>
 
+<div><a href="https://github.com/daeryun/skyzkorea_mng/compare/main...develop" target="_blank" style="color:#FFF"><img src="https://img.shields.io/badge/스카이즈 관리자-8255EC"/></a></div>
+<div><a href="https://github.com/daeryun/mkt-skyzkorea/compare/main...develop" target="_blank" style="color:#FFF"><img src="https://img.shields.io/badge/스카이즈 마케팅-fC78E4"/></a></div>
+<div><a href="https://github.com/daeryun/security-skyzkorea/compare/main...develop" target="_blank" style="color:#FFF"><img src="https://img.shields.io/badge/스카이즈 경호-57A8F4"/></a></div>
+
 
