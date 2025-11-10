@@ -101,7 +101,8 @@
   <a href="https://github.com/daeryun/center_mergers/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)M&A-black"/></a>
 </div>
 <div>
-  <a href="https://github.com/daeryun/group-consulting-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 법률상담-red"/></a>
+  <a href="https://github.com/daeryun/center-consulting-2025/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2025 법률상담-red"/></a>
+  <a href="https://github.com/daeryun/group-consulting-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 법률상담-black"/></a>
   <a href="https://github.com/daeryun/center_consulting/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)법률상담-black"/></a>
 </div>
 <div>
