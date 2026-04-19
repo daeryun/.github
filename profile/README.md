@@ -120,6 +120,9 @@
 <div>
   <a href="https://github.com/daeryun/center-counseling-2025/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/심리상담-orange"/></a>
 </div>
+<div>
+  <a href="https://github.com/daeryun/group-esg-2025/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2026 환경ESG-green"/></a>
+</div>
 
 <div><a href="https://github.com/daeryun/center_seoul/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/서울본부-133567"/></a></div>
 
