@@ -124,7 +124,8 @@
   <a href="https://github.com/daeryun/group-esg-2025/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2026 환경ESG-green"/></a>
 </div>
 <div>
-  <a href="https://github.com/daeryun/group-digital-2025/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/%EB%94%94%EC%A7%80%ED%84%B8%EA%B8%88%EC%9C%B5-%23664de8"/></a>
+  <a href="https://github.com/daeryun/group-digital-2025/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2026%20%EB%94%94%EC%A7%80%ED%84%B8%EA%B8%88%EC%9C%B5-blue
+"/></a>
 </div>
 
 <div><a href="https://github.com/daeryun/center_seoul/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/서울본부-133567"/></a></div>
