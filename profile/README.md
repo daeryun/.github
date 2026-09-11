@@ -1,6 +1,26 @@
 ## Pull Requests Link
 <div><a href="https://github.com/daeryun/center_mng/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/관리자-red"/></a></div>
 <div><a href="https://github.com/daeryun/daeryun-homepage/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/대표-blue"/></a><a href="https://github.com/daeryun/daeryun-homepage/compare/develop...develop_prev" target="_blank"><img src="https://img.shields.io/badge/대표미리보기-FD9A9A"/></a></div>
+
+<div>
+  <a href="https://github.com/daeryun/daeryun-homepage-english/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/대표(영어)-skyblue"/></a>
+<a href="https://github.com/daeryun/daeryun-homepage-japanese/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/대표(일본어)-skyblue"/></a>
+  <a href="https://github.com/daeryun/daeryun-homepage-chinese/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/대표(중국어)-skyblue"/></a>
+</div>
+<div>
+<a href="https://github.com/daeryun/daeryun-homepage-french/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/대표(프랑스어)-skyblue"/></a>
+  <a href="https://github.com/daeryun/daeryun-homepage-spanish/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/대표(스페인어)-skyblue"/></a>
+  <a href="https://github.com/daeryun/daeryun-homepage-russian/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/대표(러시아어)-skyblue"/></a>
+  
+</div>
+<div>
+<a href="https://github.com/daeryun/daeryun-homepage-thailand/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/대표(태국어)-skyblue"/></a>
+  <a href="https://github.com/daeryun/daeryun-homepage-vietnam/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/대표(베트남어)-skyblue"/></a>
+  <a href="https://github.com/daeryun/daeryun-homepage-indonesia/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/대표(인도네시아어)-skyblue"/></a>
+  <a href="https://github.com/daeryun/daeryun-homepage-arabic/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/대표(아랍어)-skyblue"/></a>
+</div>
+
+
 <div>
   <a href="https://github.com/daeryun/group-detective-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 형사-9cf"/></a>
   <a href="https://github.com/daeryun/center_election/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/선거대응-9cf"/></a>
