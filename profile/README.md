@@ -148,6 +148,9 @@
 <div>
   <a href="https://github.com/daeryun/center-foreign/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/외국인소송센터-875050"/></a>
 </div>
+<div>
+  <a href="https://github.com/daeryun/group-management-2026/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2026 경영법무컨설팅-056C5C"/></a>
+</div>
 
 <div><a href="https://github.com/daeryun/center_seoul/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/서울본부-133567"/></a></div>
 
