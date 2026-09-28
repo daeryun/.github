@@ -1,6 +1,6 @@
 ## Pull Requests Link
 <div><a href="https://github.com/daeryun/center_mng/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/관리자-red"/></a></div>
-<div><a href="https://github.com/daeryun/daeryun-homepage/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/대표-blue"/></a><a href="https://github.com/daeryun/daeryun-homepage/compare/develop...develop_prev" target="_blank"><img src="https://img.shields.io/badge/대표미리보기-FD9A9A"/></a></div>
+<div><a href="https://github.com/daeryun/daeryun-homepage/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/대표-blue"/></a></div>
 
 <div>
   <a href="https://github.com/daeryun/daeryun-homepage-english/compare/main...dev" target="_blank"><img src="https://img.shields.io/badge/대표(영어)-skyblue"/></a>
