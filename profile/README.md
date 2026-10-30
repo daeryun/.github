@@ -50,10 +50,10 @@
 </div>
 <div>
   <a href="https://github.com/daeryun/group-inherit-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 가사-orange"/></a>
-  <a href="https://github.com/daeryun/center_inherit/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)상속-black"/></a>
 </div>
 <div>
-  <a href="https://github.com/daeryun/department-inheritance-2026/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2026 상속-ff69b4"/></a>
+  <a href="https://github.com/daeryun/department-inheritance-2026/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2026_%EC%83%81%EC%86%8D-5B3029.svg?v=20261030" alt="2026 상속"/></a>
+  <a href="https://github.com/daeryun/center_inherit/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/(구)상속-black"/></a>
 </div>
 <div>
   <a href="https://github.com/daeryun/group-estate-2024/compare/main...develop" target="_blank"><img src="https://img.shields.io/badge/2024 부동산-yellowgreen"/></a>
